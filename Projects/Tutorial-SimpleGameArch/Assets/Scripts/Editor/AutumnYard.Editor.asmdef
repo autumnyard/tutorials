@@ -1,0 +1,18 @@
+{
+    "name": "AutumnYard.Editor",
+    "rootNamespace": "AutumnYard.Editor",
+    "references": [
+        "GUID:f3c0fa38deab74849b4b573b9e72078f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
