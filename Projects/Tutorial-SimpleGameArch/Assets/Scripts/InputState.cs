@@ -6,8 +6,9 @@ namespace AutumnYard
   [Serializable]
   public struct InputState
   {
-    public Vector2 moveAxis;
-    public bool up;
-    public bool down;
+    //public Vector2 moveAxis;
+    //public bool up;
+    //public bool down;
+    public int verticalAxis;
   }
 }

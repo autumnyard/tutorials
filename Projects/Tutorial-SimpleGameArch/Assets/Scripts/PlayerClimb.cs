@@ -4,7 +4,7 @@ namespace AutumnYard
 {
   public class PlayerClimb : MonoBehaviour
   {
-    private ClimbData currentData;
+    [SerializeField] private ClimbData currentData;
     private ClimbState climbState = new ClimbState();
     private Rigidbody rb;
     private InputState inputState;

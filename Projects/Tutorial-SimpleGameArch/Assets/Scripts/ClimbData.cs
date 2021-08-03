@@ -21,6 +21,7 @@ namespace AutumnYard
     public void Move(ref ClimbState state, in InputState input, in float timeDelta)
     {
       // TODO: Mover el state segun el input, lerpeado por el timeDelta
+      
     }
   }
 }
